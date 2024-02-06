@@ -1,0 +1,26 @@
+{
+    "name": "cabard/nimda",
+    "description": "Admin panel for Laravel",
+    "autoload": {
+        "psr-4": {
+            "Cabard\\Nimda\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cabard",
+            "email": "kadickov.andrei@yandex.ru",
+            "homepage": "https://github.com/Cabard",
+            "role": "Developer"
+        }
+    ],
+    "homepage": "https://github.com/Cabard/nimda",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Cabard\\Nimda\\NimdaServiceProvider"
+            ]
+        }
+    }
+}
