@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Cabard\Netbot;
+namespace Cabard\Nimda;
 
 use Illuminate\Support\ServiceProvider;
 
