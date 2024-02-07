@@ -1,6 +1,15 @@
 {
     "name": "cabard/nimda",
     "description": "Admin panel for Laravel",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Cabard/viewpack"
+        }
+    ],
+    "require": {
+        "cabard/viewpack": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Cabard\\Nimda\\": "src/"
