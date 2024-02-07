@@ -24,7 +24,6 @@
         }
     ],
     "homepage": "https://github.com/Cabard/nimda",
-    "require": {},
     "extra": {
         "laravel": {
             "providers": [
